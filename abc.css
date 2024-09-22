@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: red;
+}
+body{
+    background-image: url('image.png');
+    color: rgb(33, 34, 33);
+    background-size: cover;
+    background-blend-mode:darken;
+}
+h2{
+    color: darkblue;
+}
+h3{
+    text-decoration: underline;
+    color: aqua;
+}
